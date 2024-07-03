@@ -1,4 +1,4 @@
-# Salut, je suis [ton-nom] 👋
+# Salut, je suis Korblen👋
 
 ## À propos de moi
 
@@ -16,9 +16,10 @@ Je suis un développeur web passionné par la cybersécurité et toujours à la 
 
 ## 🏅 Badges
 
-### TryHackMe
+# Mes Badges TryHackMe
 
-![TryHackMe Badge](https://tryhackme.com/img/badges/introtooffensivesecurity.svg)
+<img src="https://tryhackme-badges.s3.amazonaws.com/ton-utilisateur.png" alt="TryHackMe Badge" width="200" height="200">
+
 
 ## 📫 Me contacter
 
