@@ -9,10 +9,18 @@ Je suis un développeur web passionné par la cybersécurité et toujours à la 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korblen&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korblen&layout=compact&theme=radical)
 
+## 🚀 Compétences
+
+- **Langages de programmation :** JavaScript, Python, Ruby, HTML, CSS
+- **Frameworks :** React, Node.js, Ruby on Rails
+- **Outils de développement :** Git, Webpack, Docker
+- **Cybersécurité :** OWASP, Nmap, Metasploit, Burp Suite
+
+
 ## 🌟 Projets en vedette
 
-- [Projet 1](https://github.com/annieherieau/Raym-marketplace) - Raym Marketplace est notre projet final de formation "The Hacking Project", c'est un site de e-commerce de vélos fait en rails api / react.
-- [Projet 2](https://github.com/annieherieau/RAYMote_IT) - Notre projet de fullstack fait en rails html css js
+-🚴‍♂️ [Projet 1](https://github.com/annieherieau/Raym_marketplace) - Raym Marketplace est notre projet final de formation "The Hacking Project", c'est un site de e-commerce de vélos fait en rails api / react.
+- 🎓[Projet 2](https://github.com/annieherieau/RAYMote_IT) - Notre projet de fullstack fait en rails html css js
 
 ## 🏅 Badges
 
