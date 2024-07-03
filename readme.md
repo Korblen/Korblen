@@ -18,7 +18,7 @@ Je suis un développeur web passionné par la cybersécurité et toujours à la 
 
 ### TryHackMe
 
-![TryHackMe Badge](https://tryhackme.com/Korbz/badges/intro-to-pentesting)
+![TryHackMe Badge](https://tryhackme.com/img/badges/introtooffensivesecurity.svg)
 
 ## 📫 Me contacter
 
