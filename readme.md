@@ -18,7 +18,7 @@ Je suis un développeur web passionné par la cybersécurité et toujours à la 
 
 # Mes Badges TryHackMe
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ton-utilisateur.png" alt="TryHackMe Badge" width="200" height="200">
+<img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="TryHackMe Badge" width="200" height="200">
 
 
 ## 📫 Me contacter
