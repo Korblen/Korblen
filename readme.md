@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis un développeur web ( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>)passionné par la cybersécurité et toujours à la recherche de nouveaux défis. Je suis un hacker éthique, et j'aime résoudre des problèmes complexes et améliorer mes compétences en programmation.
+Je suis un développeur web ( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la cybersécurité et toujours à la recherche de nouveaux défis. Je suis un hacker éthique, et j'aime résoudre des problèmes complexes et améliorer mes compétences en programmation.
 
 ## 📈 Mes statistiques GitHub
 
