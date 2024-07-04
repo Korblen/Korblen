@@ -32,7 +32,7 @@ Je suis un développeur web passionné par la cybersécurité et toujours à la 
 <img src='https://tryhackme.com/img/badges/linux.svg' alt='TryHackMe Badge' width="200" height='200' >
 </a>
 <a href ="https://tryhackme.com/p/Korbz">
-<img src="https://tryhackme.com/img/badges/owasptop10.svg">
+<img src="https://tryhackme.com/img/badges/owasptop10.svg" width="200" height="200">
 </a>
 
 
