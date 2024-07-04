@@ -26,13 +26,13 @@ Je suis un développeur web passionné par la cybersécurité et toujours à la 
 
 # Mes Badges TryHackMe
 <a href="https://tryhackme.com/p/Korbz">
-<img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="TryHackMe Badge" width="200" height="200">
+<img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="TryHackMe Badge" width="100" height="100">
 </a>
 <a href="https://tryhackme.com/p/Korbz">
-<img src='https://tryhackme.com/img/badges/linux.svg' alt='TryHackMe Badge' width="200" height='200' >
+<img src='https://tryhackme.com/img/badges/linux.svg' alt='TryHackMe Badge' width="100" height='100' >
 </a>
 <a href ="https://tryhackme.com/p/Korbz">
-<img src="https://tryhackme.com/img/badges/owasptop10.svg" width="200" height="200">
+<img src="https://tryhackme.com/img/badges/owasptop10.svg" width="100" height="100">
 </a>
 
 
