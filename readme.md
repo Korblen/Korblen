@@ -11,7 +11,7 @@ Je suis un développeur web ( <a href = "https://www.thehackingproject.org/" > T
 
 ## 🚀 Compétences
 
-- **Langages de programmation :** JavaScript, Python, Ruby, HTML, CSS, python, C/C++
+- **Langages de programmation :** JavaScript, Python, Ruby, HTML, CSS, C/C++
 - **Frameworks :** React, Node.js, Ruby on Rails
 - **Outils de développement :** Git, Webpack, Docker
 - **Cybersécurité :** OWASP, Nmap, Metasploit, Burp Suite
