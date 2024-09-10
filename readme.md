@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la cybersécurité (<a href="https://tryhackme.com/">Try Hack Me </a>) et toujours à la recherche de nouveaux défis. J'aime résoudre des problèmes complexes et améliorer mes compétences en programmation.
+Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la *cybersécurité* (<a href="https://tryhackme.com/">Try Hack Me </a>) et toujours à la recherche de nouveaux défis. J'aime résoudre des problèmes complexes et améliorer mes compétences en programmation. Je cherche à me perfectionner en algorithmie, développement web et cybersécurité tous les jours.
 
 # En ce moment
 
@@ -15,11 +15,13 @@ Je suis actuellement en Stage de développement web, les projets de stages appar
 
 ## 🚀 Compétences
 
-- **Langages de programmation et balisage:** JavaScript, Python, Ruby, HTML, CSS, C/C++
-- **Frameworks Backend:** Node.js, Ruby on Rails
-- **Bibliothèques Frontend:** React, Next.js
+- **Langages de programmation :** JavaScript, Python, Ruby, C, C++
+- **Langages de balisage :** HTML, CSS
+- **Frameworks Backend :** Node.js, Ruby on Rails
+- **Bibliothèques Frontend :** React, Next.js
 - **Outils de développement :** Git, Webpack, Docker
 - **Cybersécurité :** OWASP, Nmap, Metasploit, Burp Suite
+
 
 
 ## 🌟 Projets en vedette
