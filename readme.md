@@ -4,9 +4,10 @@
 
 Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la *cybersécurité* (<a href="https://tryhackme.com/">Try Hack Me </a>) et toujours à la recherche de nouveaux défis. J'aime résoudre des problèmes complexes et améliorer mes compétences en programmation. Je cherche à me perfectionner en algorithmie, développement web et cybersécurité tous les jours.
 
-# En ce moment
+## En ce moment
 
 Je suis actuellement en Stage de développement web, les projets de stages apparaîtront sur ce lien sous peu.
+Dans le futur j'aimerais pouvoir m'orienter vers une stack précise dans le développement web (j'essaye de toucher à tout pour voir ce qui me correspond le mieux) et consolider mes connaissances en cybersécurité (plus offensive que défensive).
 
 ## 📈 Mes statistiques GitHub
 
