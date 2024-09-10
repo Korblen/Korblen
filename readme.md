@@ -4,6 +4,10 @@
 
 Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la cybersécurité (<a href="https://tryhackme.com/">Try Hack Me </a>) et toujours à la recherche de nouveaux défis. J'aime résoudre des problèmes complexes et améliorer mes compétences en programmation.
 
+# En ce moment
+
+Je suis actuellement en Stage de développement web, les projets de stages apparaîtront sur ce lien sous peu.
+
 ## 📈 Mes statistiques GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korblen&show_icons=true&theme=radical)
@@ -11,9 +15,9 @@ Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.
 
 ## 🚀 Compétences
 
-- **Langages de programmation :** JavaScript, Python, Ruby, HTML, CSS, C/C++
+- **Langages de programmation et balisage:** JavaScript, Python, Ruby, HTML, CSS, C/C++
 - **Frameworks Backend:** Node.js, Ruby on Rails
-- **Bibliothèques Frontend:** React, 
+- **Bibliothèques Frontend:** React, Next.js
 - **Outils de développement :** Git, Webpack, Docker
 - **Cybersécurité :** OWASP, Nmap, Metasploit, Burp Suite
 
