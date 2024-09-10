@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis un développeur web ( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la cybersécurité (<a href="https://tryhackme.com/">Try Hack Me </a>) et toujours à la recherche de nouveaux défis. Je suis un hacker éthique, et j'aime résoudre des problèmes complexes et améliorer mes compétences en programmation.
+Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la cybersécurité (<a href="https://tryhackme.com/">Try Hack Me </a>) et toujours à la recherche de nouveaux défis. J'aime résoudre des problèmes complexes et améliorer mes compétences en programmation.
 
 ## 📈 Mes statistiques GitHub
 
@@ -12,7 +12,8 @@ Je suis un développeur web ( <a href = "https://www.thehackingproject.org/" > T
 ## 🚀 Compétences
 
 - **Langages de programmation :** JavaScript, Python, Ruby, HTML, CSS, C/C++
-- **Frameworks :** React, Node.js, Ruby on Rails
+- **Frameworks Backend:** Node.js, Ruby on Rails
+- **Bibliothèques Frontend:** React, 
 - **Outils de développement :** Git, Webpack, Docker
 - **Cybersécurité :** OWASP, Nmap, Metasploit, Burp Suite
 
@@ -23,6 +24,12 @@ Je suis un développeur web ( <a href = "https://www.thehackingproject.org/" > T
 - 🎓 [Raymote_IT](https://github.com/annieherieau/RAYMote_IT) - Notre projet de fullstack fait en rails html css js
 
 ## 🏅 Badges
+
+# Code Wars
+
+<a href="https://www.codewars.com/users/Korblen">
+<img src="https://www.codewars.com/users/Korblen/badges/large"></img>
+</a>
 
 # Mes Badges TryHackMe
 <a href="https://tryhackme.com/p/Korbz">
