@@ -38,17 +38,8 @@ Dans le futur j'aimerais pouvoir m'orienter vers une stack précise dans le dév
 <img src="https://www.codewars.com/users/Korblen/badges/large"></img>
 </a>
 
-# Mes Badges TryHackMe
-<a href="https://tryhackme.com/p/Korbz">
-<img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" alt="TryHackMe Badge" width="100" height="100">
-</a>
-<a href="https://tryhackme.com/p/Korbz">
-<img src='https://tryhackme.com/img/badges/linux.svg' alt='TryHackMe Badge' width="100" height='100' >
-</a>
-<a href ="https://tryhackme.com/p/Korbz">
-<img src="https://tryhackme.com/img/badges/owasptop10.svg" width="100" height="100">
-</a>
-
+# TryHackMe
+<script src="https://tryhackme.com/badge/2975659"></script>
 
 
 ## 📫 Me contacter
