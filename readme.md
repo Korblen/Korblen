@@ -39,7 +39,7 @@ Dans le futur j'aimerais pouvoir m'orienter vers une stack précise dans le dév
 </a>
 
 # TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/Korbz.png" alt="TryHackMe">
+<a href = "https://tryhackme.com/p/Korbz"><img src="https://tryhackme-badges.s3.amazonaws.com/Korbz.png" alt="TryHackMe"></a>
 
 
 ## 📫 Me contacter
