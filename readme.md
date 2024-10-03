@@ -6,8 +6,10 @@ Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.
 
 ## En ce moment
 
-Je suis actuellement en Stage de développement web, les projets de stages apparaîtront sur ce lien sous peu.
-Dans le futur j'aimerais pouvoir m'orienter vers une stack précise dans le développement web (j'essaye de toucher à tout pour voir ce qui me correspond le mieux) et consolider mes connaissances en cybersécurité (plus offensive que défensive).
+Je suis actuellement à la recherche d'une alternance en technicien informatique.
+Dans le futur j'aimerais consolider mes connaissances en cybersécurité, en gestion réseaux, systèmes informatiques et en algorythmique.
+A long terme j'aimerais développer mes compétences pour atteindre le niveau nécessaire pour être RSSI ET pentester.
+A très long terme j'aimerais obtenir les connaissances nécessaires pour développer dans le domaine de l'IA.
 
 ## 📈 Mes statistiques GitHub
 
