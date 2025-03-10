@@ -2,14 +2,15 @@
 
 ## À propos de moi
 
-Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la *cybersécurité* (<a href="https://tryhackme.com/">Try Hack Me </a>) et toujours à la recherche de nouveaux défis. J'aime résoudre des problèmes complexes et améliorer mes compétences en programmation. Je cherche à me perfectionner en algorithmie, développement web et cybersécurité tous les jours.
+Je suis un développeur web fullstack( <a href = "https://www.thehackingproject.org/" > The Hacking Project </a>) passionné par la *cybersécurité* (<a href="https://tryhackme.com/">Try Hack Me </a>) et toujours à la recherche de nouveaux défis. J'aime résoudre des problèmes complexes et améliorer mes compétences en programmation. 
+
+J'ai commencé une alternance en informatique systèmes et réseaux grâce à <a href="https://openclassrooms.com/fr/"> Openclassrooms </a> et <a href="https://www.capgemini.com/fr-fr/"> Capgemini </a>
 
 ## En ce moment
 
-Je suis actuellement à la recherche d'une alternance en technicien informatique.
-Dans le futur j'aimerais consolider mes connaissances en cybersécurité, en gestion réseaux, systèmes informatiques et en algorythmique.
-A long terme j'aimerais développer mes compétences pour atteindre le niveau nécessaire pour être RSSI ET pentester.
-A très long terme j'aimerais obtenir les connaissances nécessaires pour développer dans le domaine de l'IA.
+Je suis actuellement alternant en informatique réseaux où je peux consolider mes connaissances en cybersécurité, en gestion réseaux et systèmes informatiques.
+A long terme j'aimerais développer mes compétences en cybersécurité et en gestion
+A très long terme j'aimerais obtenir les connaissances nécessaires pour développer dans le domaine de l'IA et du machine learning.
 
 ## 📈 Mes statistiques GitHub
 
@@ -24,6 +25,7 @@ A très long terme j'aimerais obtenir les connaissances nécessaires pour dével
 - **Bibliothèques Frontend :** React, Next.js
 - **Outils de développement :** Git, Webpack, Docker
 - **Cybersécurité :** OWASP, Nmap, Metasploit, Burp Suite
+- **réseaux et systèmes:** Cisco packet tracer, Windows active directory
 
 
 
@@ -47,3 +49,4 @@ A très long terme j'aimerais obtenir les connaissances nécessaires pour dével
 ## 📫 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/malo-bastianelli-66360a285/)
+- [Portfolio](https://portfolio-malo-bastianelli.vercel.app/)
